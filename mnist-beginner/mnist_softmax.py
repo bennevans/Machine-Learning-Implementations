@@ -1,6 +1,6 @@
 """
 Implementing a simple softmax regression model on the MNIST data set
-following Google's tensorflow tutorial
+following Google's tensorflow tutorial.
 """
 
 # Import TensorFlow
